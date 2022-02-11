@@ -8,4 +8,4 @@ export function Dashboard() {
       <Title>Dashboard</Title>
     </Container>
   );
-};
+}
